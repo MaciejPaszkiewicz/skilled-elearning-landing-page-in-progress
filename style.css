@@ -1,0 +1,70 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+nav {
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.skilled {
+    color: darkblue;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.get-started {
+    border-radius: 33%;
+    background-color: rgb(47, 12, 143);
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left {
+    padding-left: 50px;
+    padding-top: 150px;
+}
+
+.main-skill {
+    color: rgb(47, 12, 143);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.main-worlds {
+    color: grey;
+    margin-bottom: 20px;
+}
+
+.second-get-started {
+    border-radius: 33%;
+    background-color: rgb(168, 56, 89);
+    color: white;
+    font-size: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+img {
+    max-width: 700px;
+    max-height: 700px;
+    margin: 0px;
+    padding: 0px;
+}
+
